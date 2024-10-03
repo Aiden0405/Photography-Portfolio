@@ -114,14 +114,12 @@ nav {
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
 }
 
-
 .nav__container {
     height: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
 
 /* Only need on tablets and phones */
 
@@ -156,7 +154,6 @@ nav {
 .nav__socials a:hover {
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.4);
 }
-
 
 /* <!-- ========================== Header ========================== --> */
 
@@ -408,8 +405,8 @@ header {
     margin: 0 4rem 1.5rem 0;
 }
 
-
 /* <!-- ========================== Gallery ========================== --> */
+
 #gallery {
     margin-top: 12rem;
 }
@@ -455,6 +452,7 @@ header {
 }
 
 /* <!-- ========================== Exhibitions ========================== --> */
+
 #exhibitions {
     margin-top: 10rem;
 }
@@ -525,6 +523,7 @@ header {
 }
 
 /* <!-- ========================== Footer ========================== --> */
+
 footer {
     margin-top: 7rem;
 }
@@ -566,6 +565,7 @@ footer {
 }
 
 /* <!-- ========================== Media Queries (medium screens) ========================== --> */
+
 @media screen and (max-width: 1024px) {
     body{
         overflow-x: hidden;
@@ -867,7 +867,5 @@ footer {
         margin-top: 5rem;
     }
 }
-
-/* https://www.youtube.com/watch?v=qKBLkcMj75M */
 
 
